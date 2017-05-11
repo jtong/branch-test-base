@@ -1,0 +1,3 @@
+[submodule "branch-test-sub"]
+	path = branch-test-sub
+	url = git@github.com:jtong/branch-test-sub.git
